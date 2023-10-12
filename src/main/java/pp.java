@@ -4,6 +4,7 @@ public class pp {
 		public String p;
 		// TODO Auto-generated method stub
 		System.out.println(a);
+		System.out.println("ok");
 	}
 
 }
